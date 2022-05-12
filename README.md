@@ -1,5 +1,4 @@
-This repo contains mysql APIs on 
-
+This repo contains mysql APIs to;
 
 1. Create a new record in a MYSQL database 
 2. Retrieve information from a MYSQL database by ID
